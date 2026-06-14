@@ -8,7 +8,7 @@ It was built as part of my programming practice during my Bachelor of Informatio
 
 ---
 
-## 🚀 Features
+## Features
 
 - Add new students with name, ID, and marks
 - View all stored student records
@@ -18,7 +18,7 @@ It was built as part of my programming practice during my Bachelor of Informatio
 
 ---
 
-## 🧠 Concepts Used
+## Concepts Used
 
 - Python functions
 - Conditional statements
@@ -29,7 +29,7 @@ It was built as part of my programming practice during my Bachelor of Informatio
 
 ---
 
-## 📊 Grading System
+## Grading System
 
 | Marks Range | Grade |
 |------------|-------|
@@ -41,7 +41,7 @@ It was built as part of my programming practice during my Bachelor of Informatio
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Uthsab Chandra Paul Sajib  
 Bachelor of Information and Communication Technology (Major in Artificial Intelligence)  
@@ -49,7 +49,7 @@ University of Tasmania
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 Run any Python file using:
 
