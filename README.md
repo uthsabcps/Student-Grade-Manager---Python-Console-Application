@@ -41,20 +41,21 @@ It was built as part of my programming practice during my Bachelor of Informatio
 
 ---
 
-## ▶️ How to Run
-
-Run the program using:
-
-```bash
-python filename.py
-
----
-
 ## 👨‍💻 Author
 
 Uthsab Chandra Paul Sajib  
 Bachelor of Information and Communication Technology (Major in Artificial Intelligence)  
 University of Tasmania
+
+---
+
+## ▶️ How to Run
+
+Run any Python file using:
+
+```bash
+python filename.py
+
 
 
 
