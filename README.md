@@ -50,15 +50,12 @@ python filename.py
 
 ---
 
-</> Markdown
+## 👨‍💻 Author
 
-# Author
-
-Uthsab Chandra Paul Sajib
-
-Bachelor of Infromation and Communication Technology (Major in Artificial Intelligence)
-
+Uthsab Chandra Paul Sajib  
+Bachelor of Information and Communication Technology (Major in Artificial Intelligence)  
 University of Tasmania
+
 
 
 
